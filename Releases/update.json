@@ -15,7 +15,7 @@
 "changelog": "- Not available!"
   },
 "plugin":{
-"current_version": 3,
+"current_version": 20221204,
 "download_url": "https://github.com/cumaRull/Apk-Editor/releases/download/Plugin/Translate.Plugin.apk",
 "changelog": "- Plugin translate for apk editor"
 }
