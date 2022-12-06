@@ -13,5 +13,10 @@
 "current_version": 20221204,
 "download_url": "https://github.com/cumaRull/Apk-Editor/releases/download/3.1/Apk_Editor_Pro_v3.1.apk",
 "changelog": "- Not available!"
-  }
+  },
+"plugin":{
+"current_version": 3,
+"download_url": "https://github.com/cumaRull/Apk-Editor/releases/download/Plugin/Translate.Plugin.apk",
+"changelog": "- Plugin translate for apk editor"
+}
 }
