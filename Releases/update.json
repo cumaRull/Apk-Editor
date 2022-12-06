@@ -1,16 +1,19 @@
 {
 "stable": {
 "current_version": 20221205,
+"name": "Update available:Stable",
 "download_url": "https://github.com/cumaRull/Apk-Editor/releases/download/3.1/Apk_Editor_Pro_v3.1.apk",
 "changelog": "- Release date:05/12/2022\n- Version:3.1\n- Fix bugs\n- Add splash screens\n- Translated language"
 },
 "beta": {
 "current_version": 20221204,
+"name": "Update available:Beta",
 "download_url": "https://github.com/cumaRull/Apk-Editor/releases/download/3.1/Apk_Editor_Pro_v3.1.apk",
 "changelog": "- Not available!"
 },
 "alternative": {
 "current_version": 20221204,
+"name": "Update available:Alternative",
 "download_url": "https://github.com/cumaRull/Apk-Editor/releases/download/3.1/Apk_Editor_Pro_v3.1.apk",
 "changelog": "- Not available!"
   },
