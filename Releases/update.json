@@ -16,6 +16,7 @@
   },
 "plugin":{
 "current_version": 20221204,
+"name": "Plugin Translator",
 "download_url": "https://github.com/cumaRull/Apk-Editor/releases/download/Plugin/Translate.Plugin.apk",
 "changelog": "- Plugin translate for apk editor"
 }
