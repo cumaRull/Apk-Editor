@@ -3,13 +3,13 @@
 
 
 "stable": {
-"current_version": 20221209,
+"current_version": 20221208,
 "name": "Update available",
 "download_url": "https://github.com/cumaRull/Apk-Editor/releases/download/3.2/Apk_Editor_Pro_v3.2.apk",
 "changelog": "- Release date:08/12/2022\n- Version:3.2\n- Fix bugs\n- Icon changes for android 13\n- Update JAR Android: API 33"
 },
 "beta": {
-"current_version": 20221209,
+"current_version": 20221205,
 "name": "Update available",
 "download_url": "https://github.com/cumaRull/Apk-Editor/releases/download/3.1/Apk_Editor_Pro_v3.1.apk",
 "changelog": "- Not available!"
