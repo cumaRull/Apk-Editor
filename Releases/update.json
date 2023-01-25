@@ -1,7 +1,7 @@
 
 {
 "stable": {
-"current_version": 20221231,
+"current_version": 20230102,
 "download_url": "https://github.com/cumaRull/Apk-Editor/releases/download/3.5/APK.Editor.Pro-STABLE.apk",
 "changelog": "- Fixed an application that could not be updated\n- Small changes"
 },
@@ -11,7 +11,7 @@
 "changelog": "- Not available!"
 },
 "alternative": {
-"current_version": 20221231,
+"current_version": 20230102,
 "download_url": "https://github.com/cumaRull/Apk-Editor/releases/download/3.5/Apk.Editor.Pro-ALTERNATIVE.apk",
 "changelog": "- Fixed an application that could not be updated\n- Small changes"
 }
