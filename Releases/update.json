@@ -1,9 +1,10 @@
 
 {
 "stable": {
-"current_version": 20230101,
-"download_url": "https://github.com/cumaRull/Apk-Editor/releases/download/3.5/APK.Editor.Pro-STABLE.apk",
-"changelog": "- Test"
+"current_version": 20230227,
+"download_url": "https://github.com/cumaRull/Apk-Editor/releases/download/3.6/Apk.Editor.Pro-STABLE.apk",
+"changelog": "- Update UI
+\n- Support dynamic color android 13"
 },
 "beta": {
 "current_version": 20221205,
