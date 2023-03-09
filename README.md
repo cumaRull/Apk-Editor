@@ -21,21 +21,12 @@
 
 ### Features
 
-- No Ads forever
-- Listen to music
-- Simple and modern design
-- Blazing fast performance 
-- Minimal battery usage
-- Manage the queue and shuffle/ repeat mode
-- Change the accent of the app
-- Manage folders to exclude(hide)
-- Automatic scanning of media files
-- Browse/ Sort/ Search albums and artists
-- Change between Dark and Light Modes
-- Create playlists by long pressing on music (removed due to issues)
-- Easily search songs by keywords
-- Lock screen controls and play in the notification bar
-- Headset controls
-- Sleep timer
-
+APK EDITOR PRO - is a super tool that can
+ hack apk files to do
+ lots of things for fun. 
+It can help us to translate strings, replace icons, redesign layouts, remove ads, 
+remove limitation in free version, 
+etc. What it can do depends on how you 
+use it. However, to use it well, we need a 
+little bit professional skills.
 
