@@ -1,9 +1,9 @@
 
 {
 "stable": {
-"current_version": 20230227,
-"download_url": "https://github.com/cumaRull/Apk-Editor/releases/download/3.6/Apk.Editor.Pro-STABLE.apk",
-"changelog": "- Update UI\n- Support dynamic color android 13"
+"current_version": 20230320,
+"download_url": "https://github.com/cumaRull/Apk-Editor/releases/download/3.7/stable.3.7.apk",
+"changelog": "- Update UI\n- Fix bugs\n- Add Testkey(Platform)\n- Add Teskey(Shared)\n- Add Testkey(Media)"
 },
 "beta": {
 "current_version": 20221205,
@@ -11,8 +11,8 @@
 "changelog": "- Not available!"
 },
 "alternative": {
-"current_version": 20230101,
-"download_url": "https://github.com/cumaRull/Apk-Editor/releases/download/3.5/Apk.Editor.Pro-ALTERNATIVE.apk",
-"changelog": "- test"
+"current_version": 20230320,
+"download_url": "https://github.com/cumaRull/Apk-Editor/releases/download/3.7/alternative.3.7.apk",
+"changelog": "- Update UI\n- Fix bugs\n- Add Testkey(Platform)\n- Add Teskey(Shared)\n- Add Testkey(Media)"
 }
 }
