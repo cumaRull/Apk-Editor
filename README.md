@@ -1,4 +1,9 @@
 #### Apk-Editor
+
+**Release** 
+
+[![Android](https://img.shields.io/badge/Platform-Android-green.svg?style=flat-square)](https://www.android.com) [![API](https://img.shields.io/badge/API-22%2B-orange.svg?logo=android&style=flat-square)](https://developer.android.com/studio/releases/platforms) 
+
 # Download
 
 [<img alt="Get it on Github" height="80" src="https://github.com/cumaRull/Apk-Editor/blob/master/Releases/get-it-on-github.png">](https://github.com/cumaRull/Apk-Editor/releases)
