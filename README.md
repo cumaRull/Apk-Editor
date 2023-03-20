@@ -15,7 +15,7 @@
 Features
 --------
 
-Release v3.6:
+Release v3.7:
 * Update UI
 * Fix bugs
 * Add Testkey(Platform)
