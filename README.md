@@ -17,7 +17,10 @@ Features
 
 Release v3.6:
 * Update UI
-* Support dynamic color android 13
+* Fix bugs
+* Add Testkey(Platform)
+* Add Teskey(Shared)
+* Add Testkey(Media)
 
 License
 -------
