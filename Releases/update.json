@@ -11,8 +11,12 @@
 "changelog": "- Not available!"
 },
 "alternative": {
-"current_version": 20230320,
-"download_url": "https://github.com/cumaRull/Apk-Editor/releases/download/3.7/alternative.3.7.apk",
-"changelog": "- Update UI\n- Fix bugs\n- Add Testkey(Platform)\n- Add Teskey(Shared)\n- Add Testkey(Media)"
+"current_version": 20230525,
+"download_url": "https://github.com/cumaRull/Apk-Editor/releases/download/3.8/alternative.3.8.apk",
+"changelog": "- Update UI
+
+\n- Fix bugs
+
+\n- Fix color for android 10"
 }
 }
