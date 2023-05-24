@@ -15,7 +15,7 @@
 Features
 --------
 
-### Release v3.7:
+### Release v3.8:
 * Update UI
 * Fix bugs
 * Fix color ui for android 10
