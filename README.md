@@ -15,12 +15,10 @@
 Features
 --------
 
-Release v3.7:
+Release v3.8:
 * Update UI
 * Fix bugs
-* Add Testkey(Platform)
-* Add Teskey(Shared)
-* Add Testkey(Media)
+* Fix color ui for android 10
 
 License
 -------
