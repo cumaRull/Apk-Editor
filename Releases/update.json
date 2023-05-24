@@ -13,10 +13,8 @@
 "alternative": {
 "current_version": 20230525,
 "download_url": "https://github.com/cumaRull/Apk-Editor/releases/download/3.8/alternative.3.8.apk",
-"changelog": "- Update UI
+"changelog": "- Update UI\nFix bugs\nFix color for android 10" 
 
-\n- Fix bugs
 
-\n- Fix color for android 10"
 }
 }
