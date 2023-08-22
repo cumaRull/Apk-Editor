@@ -2,18 +2,18 @@
 {
 "stable": {
 "current_version": 20230525,
-"download_url": "https://github.com/cumaRull/Apk-Editor/releases/download/3.8/stable.3.8.apk",
-"changelog": "- Update UI\nFix bugs\nFix color for android 10"
+"download_url": "https://github.com/cumaRull/Apk-Editor/releases/download/3.9/stable.3.9.apk",
+"changelog": "- - Fix shortcut icon color\n- Generate .idsig file wen finish compilation \n- Add new languages tagalog\n- Small changes\n- Change notification icon wen build\n Note please uninstall old version and install new version"
 },
 "beta": {
-"current_version": 20221205,
-"download_url": "https://github.com/cumaRull/Apk-Editor/releases/download/3.4/Apk_Editor_Pro_v3.4.apk",
+"current_version": 0,
+"download_url": "",
 "changelog": "- Not available!"
 },
 "alternative": {
-"current_version": 20230525,
-"download_url": "https://github.com/cumaRull/Apk-Editor/releases/download/3.8/alternative.3.8.apk",
-"changelog": "- Update UI\nFix bugs\nFix color for android 10" 
+"current_version": 0,
+"download_url": "",
+"changelog": "- Not available" 
 
 
 }
