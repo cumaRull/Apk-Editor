@@ -6,12 +6,12 @@
 "changelog": "- Fix shortcut icon color\n- Generate .idsig file wen finish compilation \n- Add new languages tagalog\n- Small changes\n- Change notification icon wen build\n\n\n- Note please uninstall old version and install new version\n\n\n© 2022 - 2023 ismasrull"
 },
 "beta": {
-"current_version": 20230525,
+"current_version": 0,
 "download_url": "https://github.com/cumaRull/Apk-Editor/releases/download/3.9/stable.3.9.apk",
 "changelog": "- Not available!"
 },
 "alternative": {
-"current_version": 20230525,
+"current_version": 0,
 "download_url": "https://github.com/cumaRull/Apk-Editor/releases/download/3.9/stable.3.9.apk",
 "changelog": "- Not available!" 
 
