@@ -3,7 +3,7 @@
 "stable": {
 "current_version": 20231019,
 "download_url": "https://github.com/cumaRull/Apk-Editor/releases/download/4.0/stable.4.0.apk",
-"changelog": "\n- Updated aapt to sdk version 33 \n- Fixed background color bottomviev on apkinfo activity\n- Fixed java.lang.NullPointerException: Attempt to invoke virtual method\n 'boolean java.lang.String.contains(java.lang.CharSequence)' on a null object reference\n- Update Webview:\n- Add swiperefreshlayout in Webview\n- Small changes\n\n\n- Note please uninstall old version and install new version\n\n\n© 2022 - 2023 ismasrull"
+"changelog": "\n- Updated aapt to sdk version 33 \n- Fixed background color bottomviev on apkinfo activity\n- Fixed java.lang.NullPointerException: Attempt to invoke virtual method\n'boolean java.lang.String.contains(java.lang.CharSequence)' on a null object reference\n- Update Webview:\n- Add swiperefreshlayout in Webview\n- Small changes\n\n\n- Note please uninstall old version and install new version\n\n© 2022 - 2023 ismasrull"
 },
 "beta": {
 "current_version": 0,
