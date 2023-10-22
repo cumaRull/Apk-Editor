@@ -32,4 +32,4 @@ License
     See the License for the specific language governing permissions and
     limitations under the License.
 
-Copyright © 2022 ismasrull Inc. All Rights Reserved.
+Copyright © 2022 Apk-Editor Inc. All Rights Reserved.
