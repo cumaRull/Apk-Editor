@@ -13,7 +13,7 @@
 [<img alt="Get it on Github" height="80" src="https://github.com/cumaRull/Apk-Editor/blob/master/Releases/get-it-on-github.png">](https://github.com/cumaRull/Apk-Editor/releases)
 
 ### Thanks For:
-WstXda
+[WstXda](https://github.com/WSTxda)
 
 
 License
