@@ -12,13 +12,9 @@
 
 [<img alt="Get it on Github" height="80" src="https://github.com/cumaRull/Apk-Editor/blob/master/Releases/get-it-on-github.png">](https://github.com/cumaRull/Apk-Editor/releases)
 
-Features
---------
+### Thanks For:
+WstXda
 
-### Release v3.8:
-* Update UI
-* Fix bugs
-* Fix color ui for android 10
 
 License
 -------
@@ -36,4 +32,4 @@ License
     See the License for the specific language governing permissions and
     limitations under the License.
 
-Copyright © 2022 Sense Music Inc. All Rights Reserved.
+Copyright © 2022 ismasrull Inc. All Rights Reserved.
