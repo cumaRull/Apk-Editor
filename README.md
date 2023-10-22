@@ -6,9 +6,7 @@
 
 # Screenshot
 
-![alt text](https://github.com/cumaRull/Apk-Editor/blob/master/Releases/Screenshot_1_APK%20Editor%20Pro.png)
-
-![alt text](https://github.com/cumaRull/Apk-Editor/blob/master/Releases/Screenshot_2_APK%20Editor%20Pro.png)
+![Main screen](/Screenshots/scr_apk1.png) ![Menu closed](/screenshots/scr_apk2.png) 
 
 
 # Download
