@@ -6,7 +6,7 @@
 
 # Screenshot
 
-![Main screen](/Releases/Screenshots/scr_apk1.png) ![Menu closed](/Releases/screenshots/scr_apk2.png) 
+![Main screen](Apk-Editor/Releases/Screenshots/scr_apk1.png) ![Menu closed](Apk-Editor/Releases/screenshots/scr_apk2.png) 
 
 
 # Download
