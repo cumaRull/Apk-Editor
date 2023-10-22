@@ -7,7 +7,7 @@
 # Screenshot
 &nbsp;&nbsp;
 <img src="https://github.com/cumaRull/Apk-Editor/blob/master/Releases/Screenshot/scr_apk1.png" width="300" alt="Screenshot">
-
+&nbsp;&nbsp;
 <img src="https://github.com/cumaRull/Apk-Editor/blob/master/Releases/Screenshot/scr_apk2.png" width="300" alt="Screenshot">
 
 
