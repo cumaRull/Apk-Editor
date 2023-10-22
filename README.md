@@ -5,7 +5,7 @@
 [![Android](https://img.shields.io/badge/Platform-Android-green.svg?style=flat-square)](https://www.android.com) [![API](https://img.shields.io/badge/API-22%2B-orange.svg?logo=android&style=flat-square)](https://developer.android.com/studio/releases/platforms) 
 
 # Screenshot
-
+&nbsp;&nbsp;
 <img src="https://github.com/cumaRull/Apk-Editor/blob/master/Releases/Screenshot/scr_apk1.png" width="300" alt="Screenshot">
 
 <img src="https://github.com/cumaRull/Apk-Editor/blob/master/Releases/Screenshot/scr_apk2.png" width="300" alt="Screenshot">
