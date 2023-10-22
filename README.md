@@ -6,7 +6,10 @@
 
 # Screenshot
 
-![alt text](https://github.com/cumaRull/Apk-Editor/blob/master/Releases/SCREENSHOT.jpg)
+![alt text](https://github.com/cumaRull/Apk-Editor/blob/master/Releases/Screenshot_1_APK%20Editor%20Pro.png)
+
+![alt text](https://github.com/cumaRull/Apk-Editor/blob/master/Releases/Screenshot_2_APK%20Editor%20Pro.png)
+
 
 # Download
 
