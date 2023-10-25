@@ -6,9 +6,9 @@
 "changelog": "\n- Some minor improvements\n- Sorry if this update is annoying,\n you can disable the update dialog in settings\n\n\n- Note please uninstall old version and install new version\n\n© 2022 - 2023 ismasrull"
 },
 "beta": {
-"current_version": 0,
-"download_url": "https://github.com/cumaRull/Apk-Editor/releases/download/3.9/stable.3.9.apk",
-"changelog": "- Not available!"
+"current_version": 20231025,
+"download_url": "https://github.com/cumaRull/Apk-Editor/blob/master/Releases/beta.4.1.apk",
+"changelog": "- Add languages spanish.\n- Add Current Activity,for the time being it can only be implemented in the beta version.\n-Changing button colors and adding buttons to the main homepage.\n- Removed some unused resources\n\nNew Bet Release\n\n\n- Note please uninstall old version and install new version\n\n© 2022 - 2023 ismasrull!"
 },
 "alternative": {
 "current_version": 0,
